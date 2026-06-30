@@ -1,49 +1,110 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p>
+# Hi there 👋, I'm Metabel Mumbi
 
-# Hi there, I'm [Your Name] 👋
-
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
-
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Interested in AI, Machine Learning, Cybersecurity, Web Development, and Cloud Computing
+- 🌱 Currently learning Django, Python, Java, and IoT
+- 🎯 Goal: Become a Cybersecurity & AI Engineer
+- 📍 Kenya
 
 ---
 
-## Technical Ecosystem
+## 🌐 Connect with Me
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
+<p align="left">
+<a href="https://github.com/Metabel" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
----
-
-## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Metabel&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metabel&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Metabel&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## Connect With Me
+## 💻 Languages and Tools
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+<p align="left">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Metabel&theme=tokyonight&show_icons=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Metabel&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Metabel&theme=tokyonight&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Metabel&theme=tokyonight&row=1&column=6)
+
+---
+
+## 📈 Contribution Graph
+
+[![Metabel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Metabel&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Budgeting App | Django-based budgeting application |
+| Smart Irrigation System | ESP32 IoT automation project |
+| Automatic Train Safety System | Embedded systems project |
+| AI Projects | Machine Learning & NLP |
+| Cybersecurity Labs | Networking and Security |
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge)
+
+---
+
+### ✨ Quote
+
+> "Code. Learn. Build. Repeat."
